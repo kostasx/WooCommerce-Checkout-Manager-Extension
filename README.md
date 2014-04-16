@@ -3,7 +3,7 @@ WooCommerce-Checkout-Manager-Extension
 
 Extend [WooCommerce Checkout Manager](http://wordpress.org/plugins/woocommerce-checkout-manager/) plugin to support more that 2 select options.
 
-Tested on: [WooCommerce Checkout Manager](http://wordpress.org/plugins/woocommerce-checkout-manager/) 3.7 + **Wordpress 3.8.2**
+Tested on: [WooCommerce Checkout Manager](http://wordpress.org/plugins/woocommerce-checkout-manager/) 3.6, 3.7 + **Wordpress 3.8.2**
 
 The [WooCommerce Checkout Manager](http://wordpress.org/plugins/woocommerce-checkout-manager/) (free version) Wordpress plugin, allows only two options to be inserted into the *Select Options* type field.
 
